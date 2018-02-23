@@ -10,6 +10,7 @@ Travis CI has permissions to this org.
 * [Contact info](https://www.fullcontact.com/developer/)
 * [Google Maps](https://developers.google.com/maps/)
 * [slack](https://api.slack.com)
+* [i ex trading](https://iextrading.com/developer/docs/)
 
 ## project ideas
 * [Starcraft AI](https://github.com/bwapi/bwapi)
